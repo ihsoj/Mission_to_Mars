@@ -22,7 +22,6 @@ The data came from the following websites:
 
 ## Notes:
 Simply navigate to the folder with app.py and "python app.py" from your terminal.
-Copy the web address to your browser. Leave the browser open and then click the "Scrape New Data" button on the web page. 
-Sometimes the Mars site is down so if you are having issues, attempt later. 
+Copy the web address to your browser. Leave the browser open and then click the "Scrape New Data" button on the web page. Install all the necessary modules to run the code locally. Sometimes the Mars site is down so if you are having issues, attempt later. 
 
 
