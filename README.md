@@ -9,7 +9,9 @@ This project is a full-stack web scraping endeavor to retrieve the latest Mars-r
 
 ## Data:
 The scraped data is stored in a MongoDB database using MongoDB Compass and Flask.  
+
 The data came from the following websites:
+
 (1) https://tinyurl.com/wcl63gs,
 
 (2) https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars,
