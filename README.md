@@ -5,6 +5,8 @@ This project is a full-stack web scraping endeavor to retrieve the latest Mars-r
 
 ![image](https://user-images.githubusercontent.com/51388767/71016082-a14ace80-20c2-11ea-803b-71fa4f191a6f.png)
 
+![image](https://user-images.githubusercontent.com/51388767/71016503-3ea60280-20c3-11ea-85d1-e97abac256b2.png)
+
 ## Data:
 The scraped data is stored in a MongoDB database using MongoDB Compass and Flask.  
 
